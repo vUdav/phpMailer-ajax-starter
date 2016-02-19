@@ -1,0 +1,1 @@
+# PHPMailer starter pack with ajax

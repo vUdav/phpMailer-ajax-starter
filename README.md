@@ -3,6 +3,7 @@
 * `index.php` - form
 * `feedback.php` - ajax mail handler
 * `sendform.js` - ajax code
+
 ## Get start
 1. Get file `class.phpmailer.php` from [PHPMailer repo](https://github.com/PHPMailer/PHPMailer)
 2. On `feedback.php` change inlude path to your `class.phpmailer.php`
